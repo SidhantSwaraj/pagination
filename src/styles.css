@@ -1,0 +1,46 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.tables {
+  color: white;
+  font-weight: bold;
+  width: 100%;
+  border-bottom: 5px solid rgb(65, 206, 156);
+}
+
+.table-header {
+  background-color: rgb(65, 206, 156);
+}
+
+.table-body {
+  background-color: rgb(240, 233, 240);
+  color: black;
+}
+
+.scroll {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  align-items: center;
+}
+
+.scroll-button {
+  background-color: rgb(65, 206, 156);
+  color: white;
+  border-radius: 5px;
+  width: 100px;
+  height: 30px;
+}
+
+.page {
+  background-color: rgb(65, 206, 156);
+  color: white;
+  border-radius: 30%;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
